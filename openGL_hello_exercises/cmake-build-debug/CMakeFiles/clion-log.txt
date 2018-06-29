@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/xiaohe/Documents/HKUST/Programming/CUDA/fluid_simulation/openGL_hello_exercises
+-- Found OpenGL: /System/Library/Frameworks/OpenGL.framework  
+-- Found GLUT: /System/Library/Frameworks/GLUT.framework  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/xiaohe/Documents/HKUST/Programming/CUDA/fluid_simulation/openGL_hello_exercises/cmake-build-debug

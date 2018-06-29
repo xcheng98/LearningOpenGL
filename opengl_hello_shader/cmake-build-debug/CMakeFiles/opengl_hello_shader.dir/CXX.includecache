@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiaohe/Documents/HKUST/Programming/CUDA/fluid_simulation/opengl_hello_shader/main.cpp
+iostream
+-
+math.h
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+shaderProgram.h
+/Users/xiaohe/Documents/HKUST/Programming/CUDA/fluid_simulation/opengl_hello_shader/shaderProgram.h
+
+/Users/xiaohe/Documents/HKUST/Programming/CUDA/fluid_simulation/opengl_hello_shader/shaderProgram.h
+GL/glew.h
+-
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+

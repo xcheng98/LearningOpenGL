@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiaohe/Documents/HKUST/Programming/CUDA/fluid_simulation/openGL_hello_exercises/main.cpp
+iostream
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+
