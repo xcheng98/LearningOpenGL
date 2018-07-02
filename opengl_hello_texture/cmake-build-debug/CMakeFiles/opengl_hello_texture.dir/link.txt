@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/opengl_hello_texture.dir/main4.cpp.o CMakeFiles/opengl_hello_texture.dir/load_image_helper.cpp.o  -o opengl_hello_texture -framework OpenGL -framework GLUT -framework Cocoa -lglfw -lglew 
