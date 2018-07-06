@@ -3,7 +3,7 @@ project(opengl_hello_coordinate)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(opengl_hello_coordinate main.cpp load_image_helper.cpp)
+add_executable(opengl_hello_coordinate main4.cpp load_image_helper.cpp)
 
 find_package(OpenGL REQUIRED)
 find_package(GLUT REQUIRED)
